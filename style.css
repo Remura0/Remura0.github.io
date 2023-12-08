@@ -311,14 +311,14 @@ header nav a{
 }
 
 
-@media screen and (max-width: 991px){
+@media screen and (max-width: 1200px){
     /* ipad, tablets */
     #intro .avatar img{
         transform: translateX(200px);
     }
 
 }
-@media screen and (min-width: 400px){
+@media screen and (max-width: 300px){
     body{
         font-size: 10px;
     }
