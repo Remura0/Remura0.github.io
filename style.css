@@ -311,7 +311,7 @@ header nav a{
 }
 
 
-@media screen and (max-width: 992px){
+@media screen and (max-width: 991px){
     /* ipad, tablets */
     #intro .avatar img{
         transform: translateX(200px);
