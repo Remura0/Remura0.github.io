@@ -318,7 +318,7 @@ header nav a{
     }
 
 }
-@media screen and (max-width: 300px){
+@media screen and (max-width: 400px){
     body{
         font-size: 10px;
     }
